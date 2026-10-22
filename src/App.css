@@ -1,0 +1,31 @@
+.app {
+  min-height: 100vh;
+  background: #ffffff;
+}
+
+.app-shell {
+  min-height: 100vh;
+  width: 100%;
+  background: #ffffff;
+}
+
+.app-shell .MuiDrawer-paper {
+  background: #ffffff;
+  border-right: 1px solid rgba(148, 163, 184, 0.2);
+}
+
+.app-shell .MuiListItemButton-root:hover {
+  background: rgba(37, 99, 235, 0.06);
+}
+
+.app-shell .MuiListItemIcon-root {
+  color: #2563eb;
+}
+
+.app-shell .MuiTypography-root {
+  color: #1f2937;
+}
+
+.app-shell main {
+  background: #ffffff;
+}
